@@ -1,6 +1,9 @@
 # Git, GitHub e VSCode <h1>
 ### Git: <h1>
 
+![image](https://github.com/qxstavo/AV1/assets/164874574/88fe1d41-9c75-4bd0-a614-5d6b90b89f06)
+
+
 **O que é Git?**
 Git é um sistema de controle de versão distribuído amplamente utilizado para rastrear alterações no código fonte durante o desenvolvimento de software. Ele permite que múltiplos desenvolvedores trabalhem em um mesmo projeto, facilitando o gerenciamento de alterações e colaboração.
 
@@ -20,6 +23,9 @@ Git é um sistema de controle de versão distribuído amplamente utilizado para 
 
 ### GitHub: <h1>
 
+![image](https://github.com/qxstavo/AV1/assets/164874574/13cceee3-28a1-4e55-906c-89bd2b423c89)
+
+
 **O que é GitHub?**
 GitHub é uma plataforma de hospedagem de código-fonte baseada na web que utiliza o Git para controle de versão. Ele permite que os desenvolvedores colaborem em projetos, hospedem e revisem código, gerenciem projetos e construam software junto com uma vasta comunidade de desenvolvedores.
 
@@ -38,6 +44,9 @@ GitHub é uma plataforma de hospedagem de código-fonte baseada na web que utili
 5. Revisão de código: Os membros da equipe podem revisar o código enviado por outros desenvolvedores e fornecer feedback por meio de comentários.
 
 ### VSCode (Visual Studio Code): <h1>
+
+![image](https://github.com/qxstavo/AV1/assets/164874574/dc46f236-042f-4aa5-8081-6adfff0de499)
+
 
 **O que é VSCode?**
 Visual Studio Code (VSCode) é um editor de código-fonte leve, gratuito e de código aberto desenvolvido pela Microsoft. Ele oferece suporte a uma ampla gama de linguagens de programação e possui recursos avançados para edição, depuração e controle de versão integrados.
